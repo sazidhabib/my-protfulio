@@ -1,4 +1,4 @@
 # my-protfulio
-![Uploading screencapture-file-C-Users-Sazid-Desktop-a-182002023-mid-assingment-web-sazid-protfolio-html-2020-10-24-12_45_19.png…]()
+![myprotfulio](https://user-images.githubusercontent.com/68610034/106388804-5f860000-640a-11eb-9684-82cbda3c2610.png)
 
 This is my protfulio design. Which is build on only HTML and CSS. I is also resposive for every device.
